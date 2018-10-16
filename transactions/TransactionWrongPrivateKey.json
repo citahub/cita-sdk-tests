@@ -1,0 +1,13 @@
+{
+  "tx": {
+    "to": "0x0000000000000000000000000000000000000000",
+    "nonce": "12345",
+    "validUntilBlock": "999999",
+    "value": "0",
+    "chainId": "1",
+    "version": "0"
+  },
+  "privateKey": "0xeeeeeeeeeeeeeeeeeeeeee",
+  "signed": "0x",
+  "hasError": true
+}
