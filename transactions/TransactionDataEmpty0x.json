@@ -1,0 +1,14 @@
+{
+  "tx": {
+    "nonce": "12345",
+    "quota": "1000000",
+    "validUntilBlock": "99999",
+    "data": "0x",
+    "value": "0",
+    "chainId": "1",
+    "version": "0"
+  },
+  "privateKey": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+  "signed": "0x0a331205313233343518c0843d209f8d063220000000000000000000000000000000000000000000000000000000000000000038011241724d38a357026992bd7e34ff7919eb73dce895c34e703ecac6cce435043bf3ef7a7e4cedf3f8338428807fd428056a16aef39c2fe742b6a9559bb1115ff9a51901",
+  "hasError": false
+}
