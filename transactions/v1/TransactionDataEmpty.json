@@ -5,8 +5,8 @@
     "quota": "30000",
     "validUntilBlock": "199639",
     "data": "",
-    "value": "00000000000000000000000000000000000000000000000000000000000003e8",
-    "chainId": "0000000000000000000000000000000000000000000000000000000000000001",
+    "value": "3e8",
+    "chainId": "1",
     "version": "1"
   },
   "privateKey": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
