@@ -1,3 +1,3 @@
-# AppChain Tests
+# CITA SDK Tests
 
-Basic tests for Nervos AppChain SDKs to test against.
+Basic tests for CITA SDKs to test against.
